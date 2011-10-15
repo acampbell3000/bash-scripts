@@ -1,0 +1,38 @@
+Copyright 2010 Anthony Campbell (anthonycampbell.co.uk)
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+either express or implied. See the License for the specific
+language governing permissions and limitations under the License.
+
+--------------------------------------
+file-date-updater
+--------------------------------------
+
+Simple script to apply batch date changes to files in a directory.
+
+Please look at the CHANGES file in each project to see what has
+changed since the last tag.
+
+------------------------
+Usage:
+------------------------
+
+    ./file-date-updater.sh -h
+
+------------------------
+Contribute:
+------------------------
+
+If you wish to contribute to the project you can find the
+latest source code on GitHub:
+
+    http://wiki.github.com/acampbell3000/bash-scripts
+
