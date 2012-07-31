@@ -115,7 +115,7 @@ if [[ $URL != "" ]]; then
 			osascript << EOF
 				tell application "System Events"
 					Activate
-					display dialog "notify-page-change.sh: Content has changed!" buttons {"OK"} default button 1 with title "Notification" with icon caution
+					display dialog "page-change-notification.sh: Content has changed!" buttons {"OK"} default button 1 with title "Notification" with icon caution
 				end tell
 EOF
 
